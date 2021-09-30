@@ -46,7 +46,7 @@ plugincode==21.1.21
 ply==3.9
 publicsuffix2==2.20191221
 pyahocorasick==1.4.0
-pycryptodome==3.6.1
+pycryptodome==3.6.6
 Pygments==2.7.3
 pymaven-patch==0.2.9
 pyparsing==2.4.0
